@@ -281,12 +281,8 @@ Monitoring • Optimization • Maintenance
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rishukatiyar001&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="180" src="https://streak-stats.demolab.com?user=rishukatiyar001&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishukatiyar001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
 </p>
 
 ---
@@ -302,7 +298,11 @@ Monitoring • Optimization • Maintenance
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rishukatiyar001/rishukatiyar001/output/snake.svg" alt="GitHub contribution snake"/>
+  <img
+    src="https://raw.githubusercontent.com/rishukatiyar001/rishukatiyar001/output/activity-graph.svg"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
 </p>
 
 ---
