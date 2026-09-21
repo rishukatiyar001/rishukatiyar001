@@ -354,13 +354,6 @@ Monitoring • Optimization • Maintenance
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishukatiyar001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies"/>
-</p>
-
----
 
 # 💡 How I Build Applications
 
