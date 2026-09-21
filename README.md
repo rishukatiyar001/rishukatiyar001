@@ -290,7 +290,11 @@ Monitoring • Optimization • Maintenance
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishukatiyar001&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph"/>
+  <img
+    src="https://raw.githubusercontent.com/rishukatiyar001/rishukatiyar001/output/activity-graph.svg"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
 </p>
 
 ---
@@ -298,12 +302,9 @@ Monitoring • Optimization • Maintenance
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/rishukatiyar001/rishukatiyar001/output/activity-graph.svg"
-    alt="GitHub Contribution Activity"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/rishukatiyar001/rishukatiyar001/output/snake.svg" alt="GitHub contribution snake"/>
 </p>
+
 
 ---
 
